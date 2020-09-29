@@ -1,0 +1,4 @@
+GitPython
+pytest
+pyyaml==5.3
+yamlordereddictloader

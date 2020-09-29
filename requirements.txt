@@ -1,5 +1,6 @@
 GitPython
 nipype
+pandas
 pytest
 pyyaml==5.3
 yamlordereddictloader

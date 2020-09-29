@@ -2,4 +2,5 @@
 
 git clone https://github.com/FCP-INDI/C-PAC.git
 cd C-PAC
-git checkout 4046b30
+git fetch --all
+git checkout v1.7.0

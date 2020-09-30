@@ -1,4 +1,5 @@
 GitPython
+matplotlib
 nipype
 pandas
 pytest
